@@ -29,6 +29,7 @@ public class Game {
 
     public static void main(String[] args) {
         // TODO: creates a Game object and runs it
+    	System.out.println("Corn");
     }
 
 }
